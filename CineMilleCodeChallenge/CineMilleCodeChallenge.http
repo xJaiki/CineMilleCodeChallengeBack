@@ -1,0 +1,6 @@
+@CineMilleCodeChallenge_HostAddress = http://localhost:5264
+
+GET {{CineMilleCodeChallenge_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
